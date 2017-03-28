@@ -11,10 +11,6 @@ public class oefenblz75 {
           String firstName;
             String lastName;
 
-
-
-
-
         }
 
     private int getSortOrder(String firstName, String lastName){
@@ -34,9 +30,6 @@ public class oefenblz75 {
         return id;
 
     }
-
-
-
-    }
+ }
 
 
